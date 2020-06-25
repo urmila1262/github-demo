@@ -1,2 +1,6 @@
 Test git quick start demo
+<<<<<<< HEAD
 i am adding new line
+=======
+adding new line for the purpose of branchs
+>>>>>>> newb
